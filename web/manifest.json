@@ -1,6 +1,6 @@
 {
-    "name": "websocket_test",
-    "short_name": "websocket_test",
+    "name": "websocket_example",
+    "short_name": "websocket_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
